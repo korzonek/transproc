@@ -13,6 +13,7 @@
 [![Code Climate](https://codeclimate.com/github/solnic/transproc/badges/gpa.svg)][codeclimate]
 [![Test Coverage](https://codeclimate.com/github/solnic/transproc/badges/coverage.svg)][codeclimate]
 [![Inline docs](http://inch-ci.org/github/solnic/transproc.svg?branch=master)][inchpages]
+[![codebeat](https://codebeat.co/badges/a4e0dd76-5801-4324-9f3c-8a2a6e500e85)](https://codebeat.co/projects/github-com-solnic-transproc)
 
 Transproc is a small library that allows you to compose methods into a functional pipeline using left-to-right function composition. It works like `|>` in Elixir or `>>` in F#.
 
